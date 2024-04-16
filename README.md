@@ -15,5 +15,5 @@
 
 * [01 - GCD y LCM](./mate/01-GCD_LCM.pdf) [video](https://youtu.be/1GCsj9xv8hM)
 * [02 - Números Primos](./mate/02-PRIME-NUMS.pdf) [video](https://youtu.be/hEJG9txhqYY)
-* [03 - Aritmética Modular y Pequeño Teorema de Fermat)(./mate/03-ARITMETICA_MODULAR.pdf) [video](https://youtu.be/6HPv6dap4v0)
+* [03 - Aritmética Modular y Pequeño Teorema de Fermat](./mate/03-ARITMETICA_MODULAR.pdf) [video](https://youtu.be/6HPv6dap4v0)
 * [04 - Exponenciación Binaria](./mate/04-BIN_EXP.pdf) [video](https://youtu.be/2ZdyatihHWQ)
