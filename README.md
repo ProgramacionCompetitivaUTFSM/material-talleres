@@ -4,6 +4,7 @@
 
 * [01 - Complejidad](./basico/01-COMPLEJIDAD.pdf)
 * [02 - Arreglos](./basico/02-ARREGLOS.pdf)
+* [02 - Ordenar](./basico/02-ORDENAR.pdf)
 
 ## Estructuras de datos
 
