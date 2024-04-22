@@ -4,7 +4,8 @@
 
 * [01 - Complejidad](./basico/01-COMPLEJIDAD.pdf)
 * [02 - Arreglos](./basico/02-ARREGLOS.pdf)
-* [02 - Ordenar](./basico/02-ORDENAR.pdf)
+* [03 - Ordenar](./basico/03-ORDENAR.pdf)
+* [04 - Búsqueda Binaria en la STL](./basico/04-BUSQUEDA_BINARIA_STL.pdf) [video](https://youtu.be/yZReaLWJg8U)
 
 ## Estructuras de datos
 
