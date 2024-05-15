@@ -7,6 +7,7 @@
 * [03 - Ordenar](./basico/03-ORDENAR.pdf)
 * [04 - Búsqueda Binaria en la STL](./basico/04-BUSQUEDA_BINARIA_STL.pdf) [video](https://youtu.be/yZReaLWJg8U)
 * [05 - Búsqueda Binara](./basico/05-BUSQUEDA_BINARIA.pdf) [video](https://youtu.be/TZNfaF1kSIM)
+* [06 - EDD Lineales](./basico/06-EDD_LINEALES.pdf)
 
 ## Estructuras de datos
 
@@ -14,6 +15,7 @@
 * [02 - PREFIX SUM 1D y 2D](./edd/02-PREFIX_SUM.pdf) [video](https://youtu.be/eLV7i-gEGPg)
 * [03 - SQRT Decomposition](./edd/03-SQRT_DECOMP.pdf) [video](https://youtu.be/lLaslKsEDR8)
 * [04 - Segment Tree](./edd/04-SEGMENT_TREE.pdf) [video](https://youtu.be/f7KDPiyY3fo)
+* [05 - Segment Tree Lazy](./edd/05-SEGMENT_TREE_LAZY.pdf) [video](https://youtu.be/mJCc8cRnSRk)
 
 ## Matemáticas
 
@@ -21,4 +23,5 @@
 * [02 - Números Primos](./mate/02-PRIME-NUMS.pdf) [video](https://youtu.be/hEJG9txhqYY)
 * [03 - Aritmética Modular y Pequeño Teorema de Fermat](./mate/03-ARITMETICA_MODULAR.pdf) [video](https://youtu.be/6HPv6dap4v0)
 * [04 - Exponenciación Binaria](./mate/04-BIN_EXP.pdf) [video](https://youtu.be/2ZdyatihHWQ)
-* [05 - COMBINATORIA](./mate/05-COMBINATORIA.pdf) [video](https://youtu.be/VgaiHHAme84)
+* [05 - Combinatoria](./mate/05-COMBINATORIA.pdf) [video](https://youtu.be/VgaiHHAme84)
+* [06 - Matrices](./mate/06-MATRICES.pdf) [video](https://youtu.be/wIMb0Z9PUXo)
