@@ -30,6 +30,8 @@
 * [03 - Componentes Conexas](./grafos/03-CONNECTED_COMPONENTS.pdf) [video](https://youtu.be/AHx9aoHe18c)
 * [04 - Ciclos en Grafos](./grafos/04-CYCLES.pdf) [video](https://youtu.be/GYFiJq_FFkU)
 * [05 - Puntos y Puentes de Articulación](./grafos/05-ARTICULATION_POINTS.pdf) [video](https://youtu.be/toJIyQsXFh4)
+* [06 - Algoritmo de Dijsktra](./grafos/06-DIJSKTRA.pdf) [video](https://youtu.be/lgEdeVWowHs)
+* [07 - Algoritmo de Floyd-Warshall](./grafos/07-FLOYD-WARSHALL.pdf) [video](https://youtu.be/eWsBCe7k05M)
 
 ## Matemáticas
 
