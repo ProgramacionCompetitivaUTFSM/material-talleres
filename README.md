@@ -31,7 +31,8 @@
 * [04 - Ciclos en Grafos](./grafos/04-CYCLES.pdf) [video](https://youtu.be/GYFiJq_FFkU)
 * [05 - Puntos y Puentes de Articulación](./grafos/05-ARTICULATION_POINTS.pdf) [video](https://youtu.be/toJIyQsXFh4)
 * [06 - Algoritmo de Dijsktra](./grafos/06-DIJSKTRA.pdf) [video](https://youtu.be/lgEdeVWowHs)
-* [07 - Algoritmo de Floyd-Warshall](./grafos/07-FLOYD-WARSHALL.pdf) [video](https://youtu.be/eWsBCe7k05M)
+* [07 - Algoritmo de Floyd-Warshall](./grafos/07-FLOYD_WARSHALL.pdf) [video](https://youtu.be/eWsBCe7k05M)
+* [08 - Minimum Spanning Tree: Algoritmo de Kruskal](./grafos/08-MINIMUM_SPANNING_TREE_KRUSKAL.pdf) [video](https://youtu.be/XPxCWbtqoiU)
 
 ## Matemáticas
 
