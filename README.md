@@ -7,8 +7,8 @@
 * [03 - Ordenar](./basico/03-ORDENAR.pdf)
 * [04 - Búsqueda Binaria en la STL](./basico/04-BUSQUEDA_BINARIA_STL.pdf) [video](https://youtu.be/yZReaLWJg8U)
 * [05 - Búsqueda Binara](./basico/05-BUSQUEDA_BINARIA.pdf) [video](https://youtu.be/TZNfaF1kSIM)
-* [06 - EDD Lineales](./basico/06-EDD_LINEALES.pdf)
-* [07 - Diccionarios](./basico/07-DICCIONARIOS.pdf)
+* [06 - EDD Lineales](./basico/06-EDD_LINEALES.pdf) [video](https://youtu.be/Yjh2x35JZfs)
+* [07 - Diccionarios](./basico/07-DICCIONARIOS.pdf) [video](https://youtu.be/Yjh2x35JZfs)
 * [08 - Conjuntos](./basico/08-CONJUNTOS.pdf) [video](https://youtu.be/JW1Op-Ili-4)
 * [09 - Cola de Prioridad](./basico/09-COLA_DE_PRIORIDAD.pdf) [video](https://youtu.be/Rg9cwP4ZCuQ)
  
@@ -33,6 +33,7 @@
 * [06 - Algoritmo de Dijsktra](./grafos/06-DIJSKTRA.pdf) [video](https://youtu.be/lgEdeVWowHs)
 * [07 - Algoritmo de Floyd-Warshall](./grafos/07-FLOYD_WARSHALL.pdf) [video](https://youtu.be/eWsBCe7k05M)
 * [08 - Minimum Spanning Tree: Algoritmo de Kruskal](./grafos/08-MINIMUM_SPANNING_TREE_KRUSKAL.pdf) [video](https://youtu.be/XPxCWbtqoiU)
+* [09 - Topological Sort](./grafos/09-TOPOLOGICAL_SORT.pdf) [video](https://youtu.be/cn-2ca1By3A)
 
 ## Matemáticas
 
