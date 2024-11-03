@@ -34,6 +34,8 @@
 * [07 - Algoritmo de Floyd-Warshall](./grafos/07-FLOYD_WARSHALL.pdf) [video](https://youtu.be/eWsBCe7k05M)
 * [08 - Minimum Spanning Tree: Algoritmo de Kruskal](./grafos/08-MINIMUM_SPANNING_TREE_KRUSKAL.pdf) [video](https://youtu.be/XPxCWbtqoiU)
 * [09 - Topological Sort](./grafos/09-TOPOLOGICAL_SORT.pdf) [video](https://youtu.be/cn-2ca1By3A)
+* [10 - Diametro de un Árbol](./grafos/10-DIAMETER.pdf) [video](https://youtu.be/Dl1_TS1WJS0)
+* [11 - Mínimo Común Ancestro](./grafos/11-LCA.pdf) [video](https://youtu.be/hRV_dYsBsHo)
 
 ## Matemáticas
 
