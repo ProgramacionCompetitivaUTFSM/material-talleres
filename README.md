@@ -47,3 +47,8 @@
 * [06 - Matrices](./mate/06-MATRICES.pdf) [video](https://youtu.be/wIMb0Z9PUXo)
 * [07 - Polinomios](./mate/07-POLINOMIOS) [video](https://youtu.be/v-GHEEmoWFc)
 * [08 - Teorema Chino del Resto](./mate/08-CRT.pdf) [video](https://youtu.be/fEQ0Lylbbg0)
+
+## Strings
+
+* [01 - Conceptos Preliminares](./strings/01-PRELIMINARES.pdf) [video](https://youtu.be/EpViKRxcVsM)
+* [02 - String Hashing](./strings/02-ROLLING_HASHING.pdf) [video](https://youtu.be/xi1WnaDZbKw)
