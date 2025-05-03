@@ -52,3 +52,6 @@
 
 * [01 - Conceptos Preliminares](./strings/01-PRELIMINARES.pdf) [video](https://youtu.be/EpViKRxcVsM)
 * [02 - String Hashing](./strings/02-ROLLING_HASHING.pdf) [video](https://youtu.be/xi1WnaDZbKw)
+* [03 - KMP](./strings/03-KMP.pdf) [video](https://youtu.be/U6hWYRTSGY8)
+* [04 - Función Z](./strings/04-Z_FUNCTION.pdf)
+* [05 - Trie](./strings/05-TRIE.pdf) [video](https://youtu.be/tt_s6Uaj9zs)
